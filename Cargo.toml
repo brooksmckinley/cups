@@ -1,0 +1,7 @@
+[package]
+name = "cups"
+version = "0.1.0"
+authors = ["Brooks McKinley <brooksmckinley@yahoo.com>"]
+
+[dependencies]
+rand = "0.5.4"
